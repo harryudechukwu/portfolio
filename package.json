@@ -30,6 +30,7 @@
     "eslint-config-next": "^16.0.0",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "concurrently": "^8.0.0"
+    "concurrently": "^8.0.0",
+    "netlify-plugin-nextjs": "^4.0.0"
   }
 }

@@ -3,7 +3,4 @@
 .env.local.example
 .next
 out/
-.env.local
-.env.local.example
-.next
-out/
+node_modules/
